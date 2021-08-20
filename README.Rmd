@@ -1,3 +1,5 @@
+# An R package using listings in Amsterdam which provides travellers with information regarding housing options
+
 # airbnb
 The goal of airbnb is to provide travelers with information 
 regarding the housing options under different criteria in the city corresponding to the dataset on
